@@ -17,5 +17,5 @@ Here're some practice project that you can refer to
 -  参考Party Animals制作的游戏角色选择组件：[https://keguigong.org/posts/role-picker-referring-to-party-animals](https://keguigong.org/posts/role-picker-referring-to-party-animals)
 -  一个优化过的搜索组件：[https://keguigong.github.io/digital-creative-search-component/](https://keguigong.github.io/digital-creative-search-component/)
 -  企业应用：故障分析平台演示：[https://keguigong.github.io/alarm-analysis-platform-demo/](https://keguigong.github.io/alarm-analysis-platform-demo/)
--  Canvas练习：冒泡排序可视化：https://keguigong.github.io/bubble-sort-animation/](https://keguigong.github.io/bubble-sort-animation/)
+-  Canvas练习：冒泡排序可视化：[https://keguigong.github.io/bubble-sort-animation/](https://keguigong.github.io/bubble-sort-animation/)
 -  Canvas练习：碰撞小球：[https://keguigong.org/posts/optimizing-bouncing-balls-with-usecallback](https://keguigong.org/posts/optimizing-bouncing-balls-with-usecallback)
