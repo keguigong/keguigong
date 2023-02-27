@@ -11,7 +11,7 @@ Here're some practice project that you can refer to
 
 你好，我是可圭共，一个前端开发者，可以在这儿看到我的代码仓库。
 
-下面是一些我的联系项目，可以做一个参考
+下面是一些我的练习项目，可以做一个参考
 
 - 【搭建中】我的博客和一些思考：[https://keguigong.org/](https://keguigong.org/)
 -  参考Party Animals制作的游戏角色选择组件：[https://keguigong.org/posts/role-picker-referring-to-party-animals](https://keguigong.org/posts/role-picker-referring-to-party-animals)
