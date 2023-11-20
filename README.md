@@ -1,1 +1,9 @@
-Hello, I am keguigong, a front-end web developer living in Shanghai, and you can check my repos here. I like animations, markup languages, games, and etc. Read my blogs at [https://keguigong.org](https://keguigong.org).
+Hi there, I am keguigong, a web developer living in Shanghai.
+
+I like
+
+- Animations
+- Writing Markdowns...
+- Game related development
+ 
+Read my (meaningless) blogs at https://keguigong.org.
